@@ -1,0 +1,8 @@
+# Config.Example
+
+{
+  "retries": 3,
+  "timeout_ms": 5000,
+  "log_level": "info",
+  "enabled": true
+}
